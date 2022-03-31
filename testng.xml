@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="day4.Trip"/>
+      <class name="TestCasePractice.testCase3"/>
+      <class name="day5.alertTesting"/>
+      <class name="ReviewSessions.alertsReview"/>
+      <class name="day5.amazonPriceSelection"/>
+      <class name="utilities.propertiesClass"/>
+      <class name="weekendReview.amazonSearch"/>
+      <class name="day5.EtsyLightPriceRange"/>
+      <class name="day2.webElementTesting"/>
+      <class name="day9.TesttingWebDriver"/>
+      <class name="day10.testNGannotation"/>
+      <class name="TestCasePractice.SlidersTestCases"/>
+      <class name="day6.actionClassTest"/>
+      <class name="day7.iframeTest"/>
+      <class name="day4.dropDownTest"/>
+      <class name="day3.checkbox"/>
+      <class name="day6.actionClassAmazon"/>
+      <class name="day6.assertionTesting"/>
+      <class name="day4.implicitWaitExample"/>
+      <class name="day10.orderOfTest"/>
+      <class name="day7.phpTravelsTest"/>
+      <class name="day5.checkSliders"/>
+      <class name="day5.homeWork"/>
+      <class name="day2.jUnitTestingExample"/>
+      <class name="ReviewSessions.dropDownP"/>
+      <class name="day7.windowHandleTest"/>
+      <class name="day5.automationPractice"/>
+      <class name="day10.dependsOnTest"/>
+      <class name="day2.openAndVerifyTitle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
